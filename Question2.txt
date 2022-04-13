@@ -1,0 +1,3 @@
+i) http://ophidcldapp.southafricanorth.cloudapp.azure.com:8080/dhis/api/organisationUnits?fields=id,name,level,children
+ii) http://ophidcldapp.southafricanorth.cloudapp.azure.com:8080/dhis/api/dataSets?paging=false
+iii) 
